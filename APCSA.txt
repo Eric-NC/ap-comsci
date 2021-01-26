@@ -1,0 +1,25 @@
+AP Computer Science A
+About the Course
+Get familiar with the concepts and tools of computer science as you learn a subset of the Java programming language. You'll do hands-on work to design, write, and test computer programs that solve problems or accomplish tasks.
+
+Skills You'll Learn
+Designing a program, developing the algorithms it needs, and writing code to implement them
+
+Testing program code and correcting errors
+
+Documenting and explaining how program code works
+
+Equivalency and Prerequisites
+College Course Equivalent
+A one-semester, introductory college course in computer science
+
+Recommended Prerequisites
+High school courses in English and algebra, and familiarity with functions and the concepts found in the uses of function notation
+
+Exam Dates
+Thu, May 6, 2021,
+12 PM Local
+
+AP Computer Science A Exam
+This is the regularly scheduled date for the AP Computer Science A Exam.
+\Z
